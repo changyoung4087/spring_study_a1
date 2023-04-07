@@ -2,43 +2,37 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.koreait</groupId>
-  <artifactId>day01</artifactId>
+  <artifactId>day04_2</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <name>Archetype - day01</name>
+  <name>Archetype - day04_2</name>
   <url>http://maven.apache.org</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>20</maven.compiler.source>
     <maven.compiler.target>20</maven.compiler.target>
+    <spring.version>5.3.26</spring.version>
   </properties>
-
   <dependencies>
+    <!-- 자바 웹기술 프레임워크 -->
     <dependency>
       <groupId>org.springframework</groupId>
-      <artifactId>spring-context</artifactId>
-      <version>5.3.26</version>
+      <artifactId>spring-webmvc</artifactId>
+      <version>${spring.version}</version>
     </dependency>
-    <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
+    <!-- ㅅㅓ블릿 -->
     <dependency>
-      <groupId>org.projectlombok</groupId>
-      <artifactId>lombok</artifactId>
-      <version>1.18.26</version>
+      <groupId>javax.servlet</groupId>
+      <artifactId>javax.servlet-api</artifactId>
+      <version>4.0.1</version>
+      <scope>provided</scope>
+    </dependency>
+    <dependency>
+      <groupId>javax.servlet.jsp</groupId>
+      <artifactId>javax.servlet.jsp-api</artifactId>
+      <version>2.3.3</version>
       <scope>provided</scope>
     </dependency>
 
   </dependencies>
-  <build>
-    <plugins>
-      <plugin>
-        <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-compiler-plugin</artifactId>
-        <configuration>
-          <source>19</source>
-          <target>19</target>
-        </configuration>
-      </plugin>
-    </plugins>
-  </build>
-
 </project>

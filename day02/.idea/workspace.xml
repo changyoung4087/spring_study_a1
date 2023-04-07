@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2be44d2-f18c-47ed-9bf9-d79647ecf925" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../day01/src/main/java/exam/AppCtx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day01/src/main/java/exam/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day01/src/main/java/exam/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day01/src/main/java/exam02/AppCtx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day01/src/main/java/exam02/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day01/src/main/java/models_member/JoinService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day01/src/main/java/models_member/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day01/src/main/java/models_member/MemberDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main/Ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/config/AppCtx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/config/AppCtx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/config/AppCtx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/config/ManualBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exam/AppCtx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exam/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exam/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exam2/AppCtx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exam2/Ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exam2/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/member/InfoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/member/JoinService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/member/ListService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/member/Member.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/member/MemberDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/member/sub/MemberDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day01/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day01/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gitignore" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Nz4SMGCeCzkG6Dv38fwkBB1xxE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.exam2.Ex01">
+    <configuration name="Ex01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.Ex01" />
+      <module name="day02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.Ex02" />
+      <module name="day02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exam2.Ex01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam2.Ex01" />
+      <module name="day02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exam2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exam.Ex01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam.Ex01" />
+      <module name="day02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exam.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.exam2.Ex01" />
+        <item itemvalue="Application.exam.Ex01" />
+        <item itemvalue="Application.Ex02" />
+        <item itemvalue="Application.Ex01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2be44d2-f18c-47ed-9bf9-d79647ecf925" name="Changes" comment="" />
+      <created>1680653575697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680653575697</updated>
+    </task>
+    <servers />
+  </component>
+</project>
